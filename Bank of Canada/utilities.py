@@ -1,7 +1,10 @@
 import urllib.request
 import re
 
-# Get a list of all urls on a certain page of the search results
+'''
+function GetUrlList:
+Get a list of all urls on a certain page of the search result
+'''
 def GetUrlList(page):
 
     # set the url to the search result
@@ -15,7 +18,10 @@ def GetUrlList(page):
                                                                                         # all useful urls
     return result
 
-# read the content on the url and convert it to string
+'''
+function Url2Str:
+read the content on the url and convert it to string
+'''
 def Url2Str(url):
 
     handle = urllib.request.urlopen(url)        # open the web page
@@ -24,6 +30,10 @@ def Url2Str(url):
     return string
 
 
+'''
+function Str2Statement:
+extract the statement out of the url content
+'''
 def Str2Statement(string):
 
     # use regular expression to clean the string and extract the statement
@@ -38,6 +48,10 @@ def Str2Statement(string):
     return statement
 
 
+'''
+function GetDate:
+extract the date out of the url content
+'''
 def GetDate(string):
 
     # use regular expression to extract the publication date of the statement
@@ -46,6 +60,10 @@ def GetDate(string):
     return date
 
 
+'''
+function GetReleaseAndDate:
+a composite functio to get both statement data and publication date
+'''
 def GetReleaseAndDate(url):
 
     string = Url2Str(url)                # read the content and put it into string
