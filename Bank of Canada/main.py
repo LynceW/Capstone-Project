@@ -1,3 +1,7 @@
+'''
+This is a web crawling program that collects Bank of Canada's overnight rate policy decisions.
+'''
+
 import pandas as pd             # use Pandas to output csv file
 from utilities import *         # self-made utility functions to crawl the website
 
