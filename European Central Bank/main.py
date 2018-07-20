@@ -1,3 +1,6 @@
+'''
+This is a web crawling program that collects European Central Bank's monetary policy decision data.
+'''
 from utilities import *         # self-made functions to perform scrapping
 import pandas as pd             # use pandas to output csv file
 
