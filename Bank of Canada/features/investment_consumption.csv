@@ -1,0 +1,15 @@
+,high,low,strong,consistent,weak,significant,modest,considerable,persistent,solid,moderate,robust,stimulus,more,large,downward,growth,recovery,slack,increase,reduction,improve
+business_investment,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+investment,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+consumption,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+consumer_spending,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+residential_investment,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+consumer_confidence,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+consumption_growth,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+household_spending,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+wage,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+wage_growth,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+household_expenditures,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+income_growth,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+spending,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+income,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1

@@ -1,0 +1,8 @@
+,high,low,strong,consistent,weak,significant,modest,considerable,persistent,solid,moderate,robust,stimulus,more,large,downward,growth,recovery,slack,increase,reduction,improve
+energy_prices,-1,1,-1,0,1,-1,0,-1,0,0,0,-1,-1,-1,-1,1,-1,-1,1,-1,1,-1
+energy,-1,1,-1,0,1,-1,0,-1,0,0,0,-1,-1,-1,-1,1,-1,-1,1,-1,1,-1
+world_energy_prices,-1,1,-1,0,1,-1,0,-1,0,0,0,-1,-1,-1,-1,1,-1,-1,1,-1,1,-1
+oil,-1,1,-1,0,1,-1,0,-1,0,0,0,-1,-1,-1,-1,1,-1,-1,1,-1,1,-1
+oil_prices,-1,1,-1,0,1,-1,0,-1,0,0,0,-1,-1,-1,-1,1,-1,-1,1,-1,1,-1
+world_oil_prices,-1,1,-1,0,1,-1,0,-1,0,0,0,-1,-1,-1,-1,1,-1,-1,1,-1,1,-1
+gasoline_prices,-1,1,-1,0,1,-1,0,-1,0,0,0,-1,-1,-1,-1,1,-1,-1,1,-1,1,-1

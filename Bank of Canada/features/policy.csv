@@ -1,0 +1,16 @@
+,high,low,strong,consistent,weak,significant,modest,considerable,persistent,solid,moderate,robust,stimulus,more,large,downward,growth,recovery,slack,increase,reduction,improve
+overnight_rate,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+bank_rate,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+deposit_rate,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+interest_rates,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+policy_rate,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+policy_interest_rates,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+core_rate,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+policy_interest_rate,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+funds_rate,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+government_spending,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+indirect_taxes,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+monetary_policy_stimulus,-1,1,-1,0,1,-1,0,-1,0,0,0,-1,-1,-1,-1,1,-1,-1,1,-1,1,-1
+policy_stimulus,-1,1,-1,0,1,-1,0,-1,0,0,0,-1,-1,-1,-1,1,-1,-1,1,-1,1,-1
+monetary_policy,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
+policy_tightening,1,-1,1,0,-1,1,0,1,0,0,0,1,1,1,1,-1,1,1,-1,1,-1,1
