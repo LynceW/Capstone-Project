@@ -115,7 +115,6 @@ print("Parsing finished.")
 # sentiment is calculated as:
 #       total sentiment = (# hawkish - # dovish) / (# hawkish + # dovish + # neutral)
 
-
 # Load the modifiers.
 modifiers = pickle.load(open("modifiers.txt", "rb"))
 
